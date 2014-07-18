@@ -1,0 +1,8 @@
+{
+  "name": "eddie-control",
+  "version": "0.0.1",
+  "description": "Abstraction for controlling eddie robot",
+  "dependencies": {
+    "serialport": "^1.4.2"
+  }
+}
